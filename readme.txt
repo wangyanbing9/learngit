@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick
 somewords
 selftest
+creating a new branch is quick & simple
